@@ -47,7 +47,7 @@ def run_test(url, device, resolution, browser):
 
 #--Main function for declaring parameters
 def main():
-    url = "https://www.getcalley.com/calley-pro-features/"  
+    url = "https://www.getcalley.com/best-auto-dialer-app/"  
     create_directories()
     
     resolutions = ['1920x1080', '1366x768', '1536x864']

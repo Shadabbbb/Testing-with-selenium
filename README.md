@@ -1,2 +1,2 @@
-# Testing-with-selenium
+# automation selenium-testing
 automation testing of webdrivers with selenium as python script.

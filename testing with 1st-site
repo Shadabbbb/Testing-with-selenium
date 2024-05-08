@@ -45,9 +45,9 @@ def run_test(url, device, resolution, browser):
     take_screenshot(driver, url, device, resolution, browser)
     driver.quit()
 
-# Main function for declaring parameters
+#--Main function for declaring parameters
 def main():
-    url = "http://example.com"  # Replace with your website URL
+    url = "https://www.getcalley.com/"  
     create_directories()
     
     resolutions = ['1920x1080', '1366x768', '1536x864']
